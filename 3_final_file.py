@@ -67,3 +67,4 @@ else:
         
     # ▼ Сортировка и запись данных
     sorting_and_recording (new_date)
+    
